@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Sebastian</h1>
-<h3 align="center">soy un desarrollador de software apasionado por el FrontEnd</h3>
+<h3 align="center">soy desarrollador de software apasionado por el FrontEnd</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Vue3, Quasar2, Vite, pnpm**
 
